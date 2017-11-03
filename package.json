@@ -23,7 +23,7 @@
   "dependencies": {
     "error-stack-parser": "^2.0.1",
     "stack-generator": "^2.0.2",
-    "stacktrace-gps": "^3.0.2"
+    "stacktrace-gps": "https://github.com/krassx/stacktrace-gps.git#master"
   },
   "devDependencies": {
     "browserify": "^13.3.0",
